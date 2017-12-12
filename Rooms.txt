@@ -1,0 +1,5 @@
+empty room - You are in a desolate room. There is nothing in here but you and the exits.
+closet - You open the door to the closet. You see nothing but darkness, but you hear something. As you get closer to find the source of the noise, suddenly slimy tentacles come shooting out of the closet and drag you into the abyss. The last thing you see is the faint glimmer of light fading as the closet doors closes. - DEATH
+basement - You are in the basement. You can not see any way to escape from here. As you go up the stairs, something grabs your leg and pulls. You fall backwards and land on your head - DEATH
+bedroom - You have entered a very small bedroom. The bed barely fits in the room. On the other side of the bed there is a doorway to what looks like the kitchen.
+kitchen - As you enter the kitchen, you see that your goal lies in front of you. There it is in the fridge, your last slice of pizza. YOU WIN!! Now go explore the rest of the house.
